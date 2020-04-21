@@ -11,7 +11,7 @@ main (){
 
 /* output
 Enter your  name 
-stalker
+walker
 
-  Your name is stalker
+  Your name is walker
   */
