@@ -1,4 +1,6 @@
-main()
+// Hello world in dart
+
+void main()
  {
-    print("this is my first dart tutorial"); 
+    print("Hello World :) "); 
  }  
