@@ -1,4 +1,4 @@
-// Inheritance
+// Implementing Inheritance
 
 import 'dart:io';
 
