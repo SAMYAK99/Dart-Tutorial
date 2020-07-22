@@ -7,6 +7,7 @@ void main(List<String> args) {
     int fiveTimes = num(6);
   print(fiveTimes);
 }
-
-// output
-// 30 
+/*
+output
+30 
+*/
