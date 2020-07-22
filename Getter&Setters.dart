@@ -1,4 +1,4 @@
-// Custom getter and Setters
+// Implementing Custom getter and Setters in Dart
 
 import 'dart:html';
 import 'dart:io';
